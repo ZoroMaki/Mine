@@ -1,2 +1,2 @@
 # Mine
-MyStuffs
+Collection of myStuffs from everything
